@@ -4,10 +4,8 @@ description: >
   Guides users through preparing and submitting functions to the Wolfram Function Repository (WFR),
   ensuring compliance with official formatting, documentation, and quality standards. Use this skill
   whenever the user mentions the Wolfram Function Repository, WFR, submitting or publishing a Wolfram
-  function, writing a Definition notebook, asking about WFR guidelines, requirements, style rules, or
-  best practices — even if they don't say "submission guide". Also trigger when the user wants to
-  update or republish an existing WFR entry, asks about Publisher IDs, ResourceFunction, or
-  DefineResourceFunction in the context of sharing their work publicly. When in doubt, use this skill.
+  function, writing a Definition notebook, asking about WFR guidelines, Publisher IDs, requirements, style rules, or
+  best practices — even if they don't say "submission guide". When in doubt, use this skill.
 ---
 
 # Wolfram Function Repository (WFR) Submission Guide
