@@ -27,8 +27,7 @@ Official style guidelines: https://resources.wolframcloud.com/FunctionRepository
 ## 1. Before You Start
 
 ### Publisher ID
-
-- Check your Publisher ID with `$PublisherID`. If you don't have one, request it at:
+- Users must have a Publisher ID in order to submit a function to the Wolfram Function Repository. Have the user evaluate `$PublisherID` in a notebook and check what the publisher id is. If the user doesn't have one, request it at:
   https://resources.wolframcloud.com/publisher/request-publisher-id
 - To **update** a published function, you must be connected to the same Publisher ID used for
   the original submission. Check a published function's Publisher ID with
