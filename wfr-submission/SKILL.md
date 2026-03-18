@@ -1,5 +1,5 @@
 ---
-name: wolfram-wfr-submission
+name: wfr-submission
 description: >
   Guides users through preparing and submitting functions to the Wolfram Function Repository (WFR),
   ensuring compliance with official formatting, documentation, and quality standards. Use this skill
